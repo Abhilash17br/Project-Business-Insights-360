@@ -43,13 +43,13 @@ So Top management wanted the analytics team to Provide insights through SQl to m
 
 ### PowerBI Dashboard
 
-●	Connected Power BI to MySQL and Excel, transformed data by establishing a data pipeline (ETL) using Power Query, Data Modelling to establish relations by snowflake schema and initial Data validation was done against benchmark values.
-●	Utilized DAX to create calculated columns and measures, and built a dynamic dashboard with KPI’s for sales, finance, marketing, and supply chain.
-●	Published a report on Power BI service for user acceptance testing (UAT) and Data validation through Excel Analyze.
-●	Incorporated stakeholder feedback to create an Executive Dashboard, resolved quality issues, optimized dashboard performance, and deployed the dashboard to Power BI service with gateway setup to MySQL Database and local Excel files for Automatic Data Refresh. 
-●	Various Project Management Skills like Project charter, stakeholder mapping analysis, Kanban board for task assignment to improve productivity
-●	A Designed dashboard with up to three levels of analysis, was able to ask the stakeholders many why’s, to their top performing, product, markets, customers, % changes and trends in P&L metrics, supply chain forecast accuracy for inventory management has helped to improve overall business.
-* Created intuitive dashboards(Views), specifically targeted to various departments to give an overview of the company's performance.
+●	Connected Power BI to MySQL and Excel, transformed data by establishing a data pipeline (ETL) using Power Query, Data Modelling to establish relations by snowflake schema and initial Data validation was done against benchmark values.*
+●	Utilized DAX to create calculated columns and measures, and built a dynamic dashboard with KPI’s for sales, finance, marketing, and supply chain.*
+●	Published a report on Power BI service for user acceptance testing (UAT) and Data validation through Excel Analyze.*
+●	Incorporated stakeholder feedback to create an Executive Dashboard, resolved quality issues, optimized dashboard performance, and deployed the dashboard to Power BI service with gateway setup to MySQL Database and local Excel files for Automatic Data Refresh.*
+●	Various Project Management Skills like Project charter, stakeholder mapping analysis, Kanban board for task assignment to improve productivity.*
+●	A Designed dashboard with up to three levels of analysis, was able to ask the stakeholders many why’s, to their top performing, product, markets, customers, % changes and trends in P&L metrics, supply chain forecast accuracy for inventory management has helped to improve overall business.*
+* Created intuitive dashboards(Views), specifically targeted to various departments to give an overview of the company's performance.*
 ✔ Finance View
 ✔ Sales View
 ✔ Marketing View
