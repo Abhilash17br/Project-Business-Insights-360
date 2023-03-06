@@ -43,12 +43,12 @@ So Top management wanted the analytics team to Provide insights through SQl to m
 
 ### PowerBI Dashboard
 
-●	Connected Power BI to MySQL and Excel, transformed data by establishing a data pipeline (ETL) using Power Query, Data Modelling to establish relations by snowflake schema and initial Data validation was done against benchmark values.*
-●	Utilized DAX to create calculated columns and measures, and built a dynamic dashboard with KPI’s for sales, finance, marketing, and supply chain.*
-●	Published a report on Power BI service for user acceptance testing (UAT) and Data validation through Excel Analyze.*
-●	Incorporated stakeholder feedback to create an Executive Dashboard, resolved quality issues, optimized dashboard performance, and deployed the dashboard to Power BI service with gateway setup to MySQL Database and local Excel files for Automatic Data Refresh.*
-●	Various Project Management Skills like Project charter, stakeholder mapping analysis, Kanban board for task assignment to improve productivity.*
-●	A Designed dashboard with up to three levels of analysis, was able to ask the stakeholders many why’s, to their top performing, product, markets, customers, % changes and trends in P&L metrics, supply chain forecast accuracy for inventory management has helped to improve overall business.*
+* Connected Power BI to MySQL and Excel, transformed data by establishing a data pipeline (ETL) using Power Query, Data Modelling to establish relations by snowflake schema and initial Data validation was done against benchmark values.*
+* Utilized DAX to create calculated columns and measures, and built a dynamic dashboard with KPI’s for sales, finance, marketing, and supply chain.*
+* Published a report on Power BI service for user acceptance testing (UAT) and Data validation through Excel Analyze.*
+* Incorporated stakeholder feedback to create an Executive Dashboard, resolved quality issues, optimized dashboard performance, and deployed the dashboard to Power BI service with gateway setup to MySQL Database and local Excel files for Automatic Data Refresh.*
+* Various Project Management Skills like Project charter, stakeholder mapping analysis, Kanban board for task assignment to improve productivity.*
+* A Designed dashboard with up to three levels of analysis, was able to ask the stakeholders many why’s, to their top performing, product, markets, customers, % changes and trends in P&L metrics, supply chain forecast accuracy for inventory management has helped to improve overall business.*
 * Created intuitive dashboards(Views), specifically targeted to various departments to give an overview of the company's performance.*
 ✔ Finance View
 ✔ Sales View
@@ -56,16 +56,50 @@ So Top management wanted the analytics team to Provide insights through SQl to m
 ✔ Supply Chain View
 ✔ Executive View
 
-## Key Insights:
+## Key Features in Finance View:
+* Profit & Loss Statement in Detail (P & L Statement).*
+* KPI’s for Net Sales, Gross Margin %, Net Profit %.*
+* Sales Target vs Actual Sales analysis*
+* Analysis for Running Year vs Last Year*
+* Top / Bottom Product and Top / Bottom Customers based on Net Sales*
+* Performance Over Time in both Selected Year and Benchmark (Benchmark = Last Year & Target)*
 
-*Checking at weekday, Weekend Table For ADR, RevPAR,Occupancy%,we could conclude that overall hotels are not changing the price between weedays and weekends.
-There is an Potential Oppurtunity to generate income, by changing Price between weekday and weekends, which most of the hotels have not adopted.*
+## Key Features in Sales View:
+* Unit Economics 1: Net Sales vs Total Post Invoice Discount Amount and Pre-Invoice Discount Amount given by the Company*
+* Unit Economics 2: Total Cost of Goods Sold (COGS) spent by the Company and then finally got the actual Gross Margin*
+* Customer and Product Performance analysis based on Net Sales, Gross Margin and Gross Margin %*
+* Performance Matrix analysis for Market, Customer and Region based on Net Sales and Gross Margin %*
+* Sales Trend Tooltip for every single Customer based on Net Sales and Gross Margin %*
 
-*The Fluctuation in ADR remains same over the time which is directly proportional to pricing ,Occupancy % is seen increasing Marginally,Revpar varies in linear with Occupancy % . This shows that the revenue growth over time is only due to its increase in occupancy %, and price for most of the hotels over time is almost constant, this could be an oppturnity to increase revenue through pricing*
+## Key Features in Marketing View:
+* Unit Economics: There are some Operational Expenses spent for Product. After subtracting this Expenses got the actual scenario of Net Profit*
+* Performance Matrix analysis for Segment, Category and Product based on both “Net Sales & Net Profit %” and “Net Sales & Gross Margin %” by using a dynamic toggle button*
 
-*occupancy %  is directly proportional to Average Ratings of the Hotel, and inversely Proportional with Pricing. Hotels with less Occupancy should work on its Ratings.*
+## Key Features in Supply Chain View:
+* KPI’s for Forecast Accuracy, Net Error, ABS Error*
+* Risk Factor analysis*
+* Accuracy vs Net Error Trend analysis*
+* Key Metrics for both Customer and Products based on FA%, FA% LY, Net Error, Net Error%, Risk Factor*
 
-*Relization provides the details of conversion rates form booking to checkin, if the relization is low,it could be that customer is not pleased with apperance of the hotel as when compared to bokking it online.*
+Executive View:
+Report Page for the Top Level Management of the Company who want to check on all key metrics and KPI's.
+* Market Share Trend analysis for AtliQ and other competitors*
+* Revenue analysis by Division and Channel*
+* Top 5 Products and Top 5 Customers by Revenue*
+* Key Insights by Sub Zone with Revenue Contribution % analysis*
 
+
+
+The most helpful measures for senior management are the Gross Margin and Net Profit (Gross Margin - Operational Costs).
+View of building sales
+Gross Margin and Net Sales (Revenue) are more significant to the sales team than Net Profit since, in most cases, they have little to no control over operating costs.
+Building Marketing Perspective:
+Understanding the changes in marketing spend over time and how those changes affect revenue and gross margin is crucial for the marketing team.
+Chain of Supply in Construction:
+Forecast Accuracy & Risk (Out of Stock or Excess Inventory) and Net Error & Absolute Error are crucial KPIs for the supply chain team.
+Executive Perspective of the Building:
+1. One of the most helpful abilities that aids in the creation of insightful visuals is the managing of stakeholder expectations.
+2. During our feedback session, the executives instructed me to create a table outlining the key insights for each zone along with the associated risk.
+In order to stay in touch with the Executives and receive their input on the Visualizations, information and help pages were also established.
 
 # Thank you.
