@@ -28,9 +28,15 @@ So Top management wanted the analytics team to Provide insights through SQl to m
 
 ## Tech stack used in the project:
 
-* 1.SQL
-* 2. MS Excel
-* 3. Power BI
+* -SQL*
+* -MS Excel*
+* -Power BI*
+
+## Work Flow:
+
+*- Write Sql Queries to Generate important insights and reports for product owners to make an data driven decisions.*
+
+
 
 ## Key Insights:
 
