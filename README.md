@@ -35,8 +35,7 @@ So Top management wanted the analytics team to Provide insights through SQl to m
 ## Work Flow:
 ### SQL Workbench
 
-*Data was Loading into Mysql and database was designed by establishing relationships in a Snowflake schema format between the tables with ERD in MySQL.
-
+* Data was Loading into Mysql and database was designed by establishing relationships in a Snowflake schema format between the tables with ERD in MySQL.*
 * Data was ready for Data Analysis and key metrics were Derived, for all the requests from Product owners*
 * Stored Procedures were created for the comples Queries so that Product owners can extract  reports by necessary filters*
 * An Data pipeline was established in deriving Metrics, with many Data Cleaning methods implemented in between.
