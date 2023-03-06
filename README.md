@@ -19,22 +19,38 @@ So Top management wanted the analytics team to Provide insights through SQl to m
 
 *As an data analyst who has been provided with sample data and a mock-up dashboard to work on the following task.*
 
-*- Write Sql Queries to Generate important insights and reports for product owners to make an data driven decisions.*
+* Write Sql Queries to Generate important insights and reports for product owners to make an data driven decisions.*
 
-*- Create Stored Procedures so that managers can extract the reports based on the filters.*
+* Create Stored Procedures so that managers can extract the reports based on the filters.*
 
-*- Create an fully functional Dashbord for Data Driven Decisiosn, which gives insights on various departments like Finance, sales, marketing, Supply chain.*
+* Create an fully functional Dashbord for Data Driven Decisiosn, which gives insights on various departments like Finance, sales, marketing, Supply chain.*
 
 
 ## Tech stack used in the project:
 
-* -SQL*
-* -MS Excel*
-* -Power BI*
+* MySQL*
+* MS Excel*
+* Power BI*
 
 ## Work Flow:
+### SQL Workbench
 
-*- Write Sql Queries to Generate important insights and reports for product owners to make an data driven decisions.*
+*Data was Loading into Mysql and database was designed by establishing relationships in a Snowflake schema format between the tables with ERD in MySQL.
+
+* Data was ready for Data Analysis and key metrics were Derived, for all the requests from Product owners*
+* Stored Procedures were created for the comples Queries so that Product owners can extract  reports by necessary filters*
+* An Data pipeline was established in deriving Metrics, with many Data Cleaning methods implemented in between.
+* Reports were generated for [Profit and loss Metrics](), Deriving Top Metrics, and Procedures to track Forecast Accuracy for Supply Chain Department.
+* 
+* Analyzed sales data of a hardware manufacturing company and generated insights related to finance, sales, market, and supply chain analytics.  Used statistical functions for data aggregation and summarization to generate Profit and Loss metrics. Developed Stored Procedures to help managers derive insights.
+●	Generated valuable reports to stakeholders on top markets, platforms, and customers. Metrics, such as Net Error, Absolute Net Error, and Forecast Accuracy, that helped businesses make informed decisions.
+●	Connected Power BI to MySQL and Excel, transformed data by establishing a data pipeline (ETL) using Power Query, Data Modelling to establish relations by snowflake schema and initial Data validation was done against benchmark values.
+●	Utilized DAX to create calculated columns and measures, and built a dynamic dashboard with KPI’s for sales, finance, marketing, and supply chain.
+●	Published a report on Power BI service for user acceptance testing (UAT) and Data validation through Excel Analyze.
+●	Incorporated stakeholder feedback to create an Executive Dashboard, resolved quality issues, optimized dashboard performance, and deployed the dashboard to Power BI service with gateway setup to MySQL Database and local Excel files for Automatic Data Refresh. 
+●	Various Project Management Skills like Project charter, stakeholder mapping analysis, Kanban board for task assignment to improve productivity
+●	A Designed dashboard with up to three levels of analysis, was able to ask the stakeholders many why’s, to their top performing, product, markets, customers, % changes and trends in P&L metrics, supply chain forecast accuracy for inventory management has helped to improve overall business.
+*
 
 
 
