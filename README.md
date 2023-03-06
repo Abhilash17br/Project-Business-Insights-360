@@ -40,8 +40,9 @@ So Top management wanted the analytics team to Provide insights through SQl to m
 * Data was ready for Data Analysis and key metrics were Derived, for all the requests from Product owners*
 * Stored Procedures were created for the comples Queries so that Product owners can extract  reports by necessary filters*
 * An Data pipeline was established in deriving Metrics, with many Data Cleaning methods implemented in between.
-* Reports were generated for [Profit and loss Metrics](), Deriving Top Metrics, and Procedures to track Forecast Accuracy for Supply Chain Department.
-* 
+* Reports were generated for [Profit and loss Metrics](https://github.com/Abhilash17br/Project-Business-Insights-360/blob/main/Sql%20Insights-1%20Advance%20Finance%20Analysis..sql), [Deriving Top Metrics](https://github.com/Abhilash17br/Project-Business-Insights-360/blob/main/Sql%20Insights-2%20Advance%20Top%20Performer%20Analysis..sql), and Procedures to track [Forecast Accuracy for Supply Chain Department](https://github.com/Abhilash17br/Project-Business-Insights-360/blob/main/Sql%20Insights-3%20Advance%20Supply%20Chain%20%20Analysis..sql).
+
+### PowerBI Dashboard
 * Analyzed sales data of a hardware manufacturing company and generated insights related to finance, sales, market, and supply chain analytics.  Used statistical functions for data aggregation and summarization to generate Profit and Loss metrics. Developed Stored Procedures to help managers derive insights.
 ●	Generated valuable reports to stakeholders on top markets, platforms, and customers. Metrics, such as Net Error, Absolute Net Error, and Forecast Accuracy, that helped businesses make informed decisions.
 ●	Connected Power BI to MySQL and Excel, transformed data by establishing a data pipeline (ETL) using Power Query, Data Modelling to establish relations by snowflake schema and initial Data validation was done against benchmark values.
