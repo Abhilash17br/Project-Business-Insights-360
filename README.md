@@ -7,40 +7,30 @@
 🔷Power BI Service  - https://app.powerbi.com/reportEmbed?reportId=4fa34d70-3e56-45cc-bc68-a1ba47ec354c&autoAuth=true&ctid=5583c874-04ed-477b-8448-d0b72a6e40e2
 
 ## Overview:
-*Project: Provide Insights to the Revenue team in the Hospitality Domain.*
+*Project: Provide Insights on Finance,sales,Marketing,Supply Chain to the Management.*
+*Domain: Manufacturing Domain*
 
-*Domain: Hospitality Domain*
-
-*Function: Revenue*
-
-
-## Domain:  Hospitality | Function: Revenue
-
-*AtliQ Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, AtliQ Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of AtliQ Grands wanted to incorporate “Business and Data Intelligence” to regain their market share and revenue. However, they do not have an in-house data analytics team to provide them with these insights.*
-
-
-## Problem Statement:
-
-*The revenue management team had decided to hire a 3rd party service provider to provide them with insights from their historical data.*
+*AtliQ Hardware is a company that Sells and Manufactures Hardware.They have Customers all over the world and Products under various categories.
+AtliQ Team use MS excel for data analysis but as the business expands globally company's Top management decides to use Power BI for data analytics.
+So Top management wanted the analytics team to Provide insights through SQl to make decisions and as later part of the Project a dashboard to be created for various key departments, so they can get insights on  important metrics and make data driven Decisions*
 
 
  ## Task:
 
 *As an data analyst who has been provided with sample data and a mock-up dashboard to work on the following task.*
 
-*- Create the metrics according to the metric list.*
+*- Write Sql Queries to Generate important insights and reports for product owners to make an data driven decisions.*
 
-*- Create a dashboard according to the mock-up provided by stakeholders.*
+*- Create Stored Procedures so that managers can extract the reports based on the filters.*
 
-*- Create relevant insights that are not provided in the metric list/mock-up dashboard.*
-
-
-## Tools Used:
+*- Create an fully functional Dashbord for Data Driven Decisiosn, which gives insights on various departments like Finance, sales, marketing, Supply chain.*
 
 
-*Excel: For Data Cleaning*
+## Tech stack used in the project:
 
-*Microsoft PowerPoint: For Presenting Insights*
+* 1.SQL
+* 2. MS Excel
+* 3. Power BI
 
 ## Key Insights:
 
