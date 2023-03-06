@@ -1,11 +1,10 @@
-# Project-Business-Insights-360
-# Business Insights 360 - Data Analyst Challenge at Codebasics.io
+# Project-Business-Insights-360 (Data Analyst Challenge at Codebasics.io)
 ## SQL Data Exploration & Power BI Dashboard.
 
 ## Link to my Dashboard
-🔷Novypro Dashboard - https://www.novypro.com/project/revenue-insights---hospitality-domain
+🔷Novypro Dashboard - https://www.novypro.com/project/business-insights-360-4
 
-🔷Power BI Service  - https://app.powerbi.com/reportEmbed?reportId=8306465b-5851-489a-80b0-05f18633f873&autoAuth=true&ctid=5583c874-04ed-477b-8448-d0b72a6e40e2
+🔷Power BI Service  - https://app.powerbi.com/reportEmbed?reportId=4fa34d70-3e56-45cc-bc68-a1ba47ec354c&autoAuth=true&ctid=5583c874-04ed-477b-8448-d0b72a6e40e2
 
 ## Overview:
 *Project: Provide Insights to the Revenue team in the Hospitality Domain.*
