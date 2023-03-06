@@ -50,6 +50,7 @@ So Top management wanted the analytics team to Provide insights through SQl to m
 * Various Project Management Skills like Project charter, stakeholder mapping analysis, Kanban board for task assignment to improve productivity.*
 * A Designed dashboard with up to three levels of analysis, was able to ask the stakeholders many why’s, to their top performing, product, markets, customers, % changes and trends in P&L metrics, supply chain forecast accuracy for inventory management has helped to improve overall business.*
 * Created intuitive dashboards(Views), specifically targeted to various departments to give an overview of the company's performance.*
+
 ✔ Finance View
 ✔ Sales View
 ✔ Marketing View
@@ -57,12 +58,10 @@ So Top management wanted the analytics team to Provide insights through SQl to m
 ✔ Executive View
 
 ## Key Features in Finance View:
-* Profit & Loss Statement in Detail (P & L Statement).*
+* The profit and loss Statement, explains on varoius P&L Metrics form Gross Sales to Net Profit.BM indicates the  bench,ark , which is Either Last year or the Target.    which can be selected through Slicer Provided.
 * KPI’s for Net Sales, Gross Margin %, Net Profit %.*
-* Sales Target vs Actual Sales analysis*
-* Analysis for Running Year vs Last Year*
+* Net sales Performance Trend in comparision with Target/Last Year which can be selected Dynamically.
 * Top / Bottom Product and Top / Bottom Customers based on Net Sales*
-* Performance Over Time in both Selected Year and Benchmark (Benchmark = Last Year & Target)*
 
 ## Key Features in Sales View:
 * Unit Economics 1: Net Sales vs Total Post Invoice Discount Amount and Pre-Invoice Discount Amount given by the Company*
@@ -81,25 +80,19 @@ So Top management wanted the analytics team to Provide insights through SQl to m
 * Accuracy vs Net Error Trend analysis*
 * Key Metrics for both Customer and Products based on FA%, FA% LY, Net Error, Net Error%, Risk Factor*
 
-Executive View:
+## Key Features in Executive View:
 Report Page for the Top Level Management of the Company who want to check on all key metrics and KPI's.
 * Market Share Trend analysis for AtliQ and other competitors*
 * Revenue analysis by Division and Channel*
 * Top 5 Products and Top 5 Customers by Revenue*
 * Key Insights by Sub Zone with Revenue Contribution % analysis*
 
+## Key Learnings.
 
-
-The most helpful measures for senior management are the Gross Margin and Net Profit (Gross Margin - Operational Costs).
-View of building sales
-Gross Margin and Net Sales (Revenue) are more significant to the sales team than Net Profit since, in most cases, they have little to no control over operating costs.
-Building Marketing Perspective:
-Understanding the changes in marketing spend over time and how those changes affect revenue and gross margin is crucial for the marketing team.
-Chain of Supply in Construction:
-Forecast Accuracy & Risk (Out of Stock or Excess Inventory) and Net Error & Absolute Error are crucial KPIs for the supply chain team.
-Executive Perspective of the Building:
-1. One of the most helpful abilities that aids in the creation of insightful visuals is the managing of stakeholder expectations.
-2. During our feedback session, the executives instructed me to create a table outlining the key insights for each zone along with the associated risk.
-In order to stay in touch with the Executives and receive their input on the Visualizations, information and help pages were also established.
+* The most helpful measures for senior management are the Gross Margin and Net Profit (Gross Margin - Operational Costs).
+* Gross Margin and Net Sales are more significant to the sales team than Net Profit since, in most cases, they have little to no control over operating costs.
+* Understanding the changes in marketing spend over time and how those changes affect revenue and gross margin is crucial for the marketing team.
+* Forecast Accuracy & Risk (Out of Stock or Excess Inventory) and Net Error & Absolute Error are crucial KPIs for the supply chain team.
+* One of the most helpful abilities that aids in the creation of insightful visuals is the managing of stakeholder expectations.
 
 # Thank you.
